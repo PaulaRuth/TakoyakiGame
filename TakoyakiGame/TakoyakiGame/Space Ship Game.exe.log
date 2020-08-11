@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "ship_test.py", line 22, in ?
+    wait = 0
+pygame.error: Mix_LoadWAV_RW with NULL src
+Traceback (most recent call last):
+  File "ship_test.py", line 22, in ?
+    boom_s = pygame.mixer.Sound("boom.wav")
+pygame.error: Mix_LoadWAV_RW with NULL src
+Traceback (most recent call last):
+  File "ship_test.py", line 22, in ?
+    boom_s = pygame.mixer.Sound("boom.wav")
+pygame.error: Mix_LoadWAV_RW with NULL src
